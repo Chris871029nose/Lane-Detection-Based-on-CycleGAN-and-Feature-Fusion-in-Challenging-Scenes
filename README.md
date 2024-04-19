@@ -1,5 +1,8 @@
 # Lane-Detection-Based-on-CycleGAN-and-Feature-Fusion-in-Challenging-Scenes
 
+
+##framework
+![images](https://github.com/Chris871029nose/Lane-Detection-Based-on-CycleGAN-and-Feature-Fusion-in-Challenging-Scenes/blob/main/data/framework.png)
 ## Datasets
 CULane  
 The whole dataset is available at [CULane](https://xingangpan.github.io/projects/CULane.html).
@@ -57,7 +60,7 @@ sh eval_all.sh    # evaluate the whole test set
 sh eval_split.sh  # evaluate each scenario separately
 ```
 # Example
-![images](https://github.com/Chris871029nose/Lane-Detection-Based-on-CycleGAN-and-Feature-Fusion-in-Challenging-Scenes/blob/main/result.png)
+![images](https://github.com/Chris871029nose/Lane-Detection-Based-on-CycleGAN-and-Feature-Fusion-in-Challenging-Scenes/blob/main/data/result.png)
 # Acknowledgement
 This project refers to the following projects:
 
